@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Instagram Clone</string>
+    <string name="from">from</string>
+    <string name="meta">Meta</string>
+    <string name="already_have_an_account_login">Already have an Account login?</string>
+    <string name="register">Register</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="log_in">Log in</string>
+    <string name="email">Email</string>
+    <string name="creat_new_account">Create new account</string>
+    <string name="password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    <string name="reel">Reel</string>
+    <string name="profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="post">post</string>
+    <string name="_20">20</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="share_profile">Share Profile</string>
+    <string name="write_a_caption">Write a caption...</string>
+    <string name="share">Share</string>
+    <string name="share_to_facebook">Share to Facebook</string>
+    <string name="caption">Caption</string>
+    <string name="follow">Follow</string>
+    <string name="text_view">text view</string>
+    <string name="add_story">Add Story</string>
+
+</resources>
